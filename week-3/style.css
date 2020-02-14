@@ -29,6 +29,12 @@ h1{
   position: relative;
   color: teal;
 }
+p{
+  font-family: futura;
+  font-size: 12px;
+  text-align: center;
+  color: teal;
+}
 pre{
   font-family: futura;
   margin-bottom:20%;
